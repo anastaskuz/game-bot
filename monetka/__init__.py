@@ -1,0 +1,1 @@
+from monetka import coin_toss

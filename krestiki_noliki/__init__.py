@@ -1,0 +1,1 @@
+from krestiki_noliki import krestiki_noliki_game
